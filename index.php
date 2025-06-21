@@ -5,8 +5,8 @@ require_once 'tasks.php'; ?>
 <head>
     <meta charset="UTF-8">
     <title>To-Do List</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+    <script src="assets/tailwind.js"></script>
+    <script src="assets/sortable.min.js"></script>
 </head>
 <body class="bg-gray-100 min-h-screen text-gray-900 flex items-center justify-center">
   <div class="max-w-xl mx-auto mt-10 p-6 bg-white rounded-xl shadow-md">
